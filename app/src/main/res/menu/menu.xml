@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group>
+
+        <item
+            android:id="@+id/Ccurve"
+            android:orderInCategory="100"
+            android:title="@string/Ccurve"
+            android:icon="@drawable/ic_launcher_background"
+            app:showAsAction="collapseActionView" />
+
+        <item
+            android:id="@+id/triangle"
+            android:orderInCategory="100"
+            android:title="@string/sierpinski_s_triangle"
+            android:icon="@drawable/ic_launcher_background"
+            app:showAsAction="collapseActionView" />
+    </group>
+
+    <group>
+
+
+
+
+
+    </group>
+
+
+
+</menu>
+

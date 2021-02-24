@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">C curve fractal</string>
+    <string name="draw_line">Draw Line</string>
+    <string name="order_up">Order up</string>
+    <string name="orderdown" />
+    <string name="order_down">ORDER DOWN</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="options">Options</string>
+    <string name="Ccurve">Ccurve</string>
+    <string name="sierpinski_s_triangle">Sierpinski\'s triangle</string>
+</resources>
